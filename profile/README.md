@@ -45,7 +45,7 @@ Contributions of every size are welcome: code, bug reports, design feedback, doc
 
 <div align="center">
 
-**[Website](https://ysocial.cc)** · **[Web](https://github.com/ysocialoss/web)** · **[API](https://github.com/ysocialoss/api)** · **[Mobile](https://github.com/ysocialoss/mobile)**
+**[Website](https://ysocial.cc)** · **[Web](https://github.com/ysocialoss/web)** · **[API](https://github.com/ysocialoss/api)** · **[Android App](https://github.com/ysocialoss/android)** · **[iOS App](https://github.com/ysocialoss/ios)**
 
 <sub>Open source & open social media platform 💚</sub>
 
